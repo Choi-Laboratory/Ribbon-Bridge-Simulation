@@ -1,2 +1,1 @@
-# Ribbon-Bridge-Simulation
-Ribbon Bridge Simulation project
+#Ribbon-Bridge-Simulation
